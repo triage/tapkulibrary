@@ -29,7 +29,7 @@
  
  */
 
-@import UIKit;
+#import <UIKit/UIKit.h>
 #import "TKCalendarMonthViewController.h"
 
 /** The `TKCalendarMonthTableViewController` class creates a controller object that manages a calendar month grid with a table view below it. */ 

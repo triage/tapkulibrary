@@ -29,7 +29,7 @@
  
  */
 
-@import QuartzCore;
+#import <QuartzCore/QuartzCore.h>
 
 @interface CAAnimation (TKAnimation)
 

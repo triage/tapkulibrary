@@ -29,7 +29,7 @@
  
  */
 
-@import Foundation;
+#import <Foundation/Foundation.h>
 
 /** Additional functionality for `NSMutableArray`.  */
 @interface NSMutableArray (TKCategory)

@@ -29,9 +29,9 @@
  
  */
 
-@import Foundation;
-@import UIKit;
-@import QuartzCore;
+#import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
+#import <QuartzCore/QuartzCore.h>
 @import XCTest;
 #import "UIView+TKCategory.h"
 

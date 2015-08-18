@@ -29,7 +29,7 @@
  
  */
 
-@import UIKit;
+#import <UIKit/UIKit.h>
 
 /** A progress circle view */
 @interface TKProgressCircleView : UIView {

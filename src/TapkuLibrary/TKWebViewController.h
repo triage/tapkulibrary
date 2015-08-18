@@ -30,7 +30,7 @@
  */
 
 
-@import UIKit;
+#import <UIKit/UIKit.h>
 
 
 /** This class creates a `UIViewController` with a basic `UIWebView` as the focal point view. */

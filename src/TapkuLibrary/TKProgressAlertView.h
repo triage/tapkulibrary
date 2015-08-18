@@ -30,7 +30,7 @@
  */
 
 
-@import UIKit;
+#import <UIKit/UIKit.h>
 #import "TKProgressBarView.h"
 #import "TKAlertViewController.h"
 

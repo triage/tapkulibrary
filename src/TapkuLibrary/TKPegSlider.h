@@ -29,7 +29,7 @@
  
  */
 
-@import UIKit;
+#import <UIKit/UIKit.h>
 
 /** `TKPegSlider` a slider control with set points. */
 @interface TKPegSlider : UIControl

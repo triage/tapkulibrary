@@ -29,7 +29,7 @@
  
  */
 
-@import UIKit;
+#import <UIKit/UIKit.h>
 
 /**
  This class is a cool little alert view like view controller to subclass. 

@@ -29,7 +29,7 @@
  
  */
 
-@import UIKit;
+#import <UIKit/UIKit.h>
 
 /** `TKPageControl` is a reimplementation of UIPageControl with a little flair. */
 @interface TKPageControl : UIControl

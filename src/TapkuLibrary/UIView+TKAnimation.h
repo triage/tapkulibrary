@@ -29,8 +29,8 @@
  
  */
 
-@import UIKit;
-@import QuartzCore;
+#import <UIKit/UIKit.h>
+#import <QuartzCore/QuartzCore.h>
 
 @interface UIView (TKAnimation)
 

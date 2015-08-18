@@ -30,7 +30,7 @@
  */
 
 @import XCTest;
-@import Foundation;
+#import <Foundation/Foundation.h>
 #import "NSObject+TKCategory.h"
 
 @interface DataTests : XCTestCase

@@ -28,7 +28,7 @@
  OTHER DEALINGS IN THE SOFTWARE.
  
  */
-@import UIKit;
+#import <UIKit/UIKit.h>
 
 /** A `UITableViewCell` with a `UISwitch` */
 @interface TKSwitchCell : UITableViewCell 

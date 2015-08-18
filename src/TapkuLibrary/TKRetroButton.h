@@ -29,7 +29,7 @@
  
  */
 
-@import UIKit;
+#import <UIKit/UIKit.h>
 
 /** `TKRetroButton` is a subclassed `UIButton` with a rounded corner and border. */
 @interface TKRetroButton : UIButton

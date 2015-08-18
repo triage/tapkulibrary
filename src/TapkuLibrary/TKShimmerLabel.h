@@ -29,7 +29,7 @@
  
  */
 
-@import UIKit;
+#import <UIKit/UIKit.h>
 
 /** The direction of the shimmering on the label. */
 typedef NS_ENUM(NSInteger, TKShimmerLabelDirection) {

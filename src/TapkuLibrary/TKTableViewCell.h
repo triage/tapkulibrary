@@ -28,7 +28,7 @@
  OTHER DEALINGS IN THE SOFTWARE.
  
  */
-@import UIKit;
+#import <UIKit/UIKit.h>
 
 
 @interface TKTableViewCell : UITableViewCell {

@@ -33,8 +33,8 @@
  */
 
 
-@import UIKit;
-@import QuartzCore;
+#import <UIKit/UIKit.h>
+#import <QuartzCore/QuartzCore.h>
 
 
 /** The delegate of a `TKReorderTableView` object must adopt the `TKReorderTableViewDelegate` protocol. */

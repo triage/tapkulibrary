@@ -29,7 +29,7 @@
  
  */
 
-@import UIKit;
+#import <UIKit/UIKit.h>
 
 /** `TKGlowButton` is a subclassed `UIButton` that allows the background of a button to glow on touch. */
 @interface TKGlowButton : UIButton

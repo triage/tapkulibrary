@@ -29,7 +29,7 @@
  
  */
 
-@import UIKit;
+#import <UIKit/UIKit.h>
 
 /** Additional functionality for `UIGestureRecognizer`.  */
 @interface UIGestureRecognizer (TKCategory)

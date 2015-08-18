@@ -30,7 +30,7 @@
  */
 
 
-@import UIKit;
+#import <UIKit/UIKit.h>
 
 /** Additional functionality for `UIColor`.  */
 @interface UIColor (TKCategory)
