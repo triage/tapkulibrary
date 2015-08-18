@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name          = 'TapkuLibrary'
-  s.version       = '0.3.8'
+  s.version       = '0.3.9'
   s.platform      = :ios, '7.0'
   s.author        = { 'Devin Ross' => 'devin@devinsheaven.com' }
   s.license       = { :type => 'MIT', :file => 'License.txt' }
